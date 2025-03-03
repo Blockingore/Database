@@ -5,7 +5,6 @@ WHERE canale_contenuto = 'tumblurr'
     AND utente_visitatore = 'jfaso'
     AND collegamento = 'https://clip_link.com/3';
 
-
 -- REGISTRAZIONE UTENTE 
 INSERT INTO utente(username, nome, email, password, data_nascita, telefono, portafoglio, fragile, stato)
 VALUES( 'essok', 'aurelien essok', 'ilpiumattoditutti@gmail.com' ,  'dfveifi1234', '1996-07-30', '+391254762146', 0.00, FALSE, 'registrato' );
